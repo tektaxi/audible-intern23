@@ -1,18 +1,20 @@
 {
-  "Book1" : {
-    "title" : "stuff",
-    "genre" : "horror",
-    "length_mins" : 50,
-    "description" : "this is a book!",
-    "author" : "tobin patrick mallon",
-    "cover_art" : "book.jpg"
-  },
-  "Book2" : {
-    "title" : "Inside Audible",
-    "genre" : "realistic fiction",
-    "length_mins" : 40,
-    "description" : "a podcast diving deep into the people behind your favorite audiobook app.",
-    "author" : "Bob Carrigan",
-    "cover_art" : "book.jpg"
-  }
+  "books": [
+    {
+      "title": "stuff",
+      "genre": "horror",
+      "length_mins": 50,
+      "description": "this is a book!",
+      "author": "tobin patrick mallon",
+      "cover_art": "book.jpg"
+    },
+    {
+      "title": "Inside Audible",
+      "genre": "realistic fiction",
+      "length_mins": 40,
+      "description": "a podcast diving deep into the people behind your favorite audiobook app.",
+      "author": "Bob Carrigan",
+      "cover_art": "book.jpg"
+    }
+  ]
 }
